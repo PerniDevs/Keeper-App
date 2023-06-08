@@ -110,7 +110,7 @@ form.create-note textarea {
 form.create-note button {
   position: absolute;
   right: 18px;
-  bottom: -18px;
+  bottom: -18px; 
   background: #f5ba13;
   color: #fff;
   border: none;
